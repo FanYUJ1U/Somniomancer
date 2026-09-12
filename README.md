@@ -1,5 +1,5 @@
-# Somniomancer
-给我点点星标吧！！！！！求求了！！！
+## Somniomancer-明日方舟众生行记美术风格SKILL
+### 给我点点星标吧！！！！！求求了！！！
 <img width="1125" height="1680" alt="8ad07d74bd889aee6b1631f7431de5c8" src="https://github.com/user-attachments/assets/e3c35f5a-ab79-4a7d-96b2-725bd0fcc576" />
 
 > Original consciousness-flow editorial visual skill · V1.1.1  
