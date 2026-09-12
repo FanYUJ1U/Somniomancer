@@ -1,11 +1,13 @@
 # Somniomancer
+给我点点星标吧！！！！！求求了！！！
+<img width="1125" height="1680" alt="8ad07d74bd889aee6b1631f7431de5c8" src="https://github.com/user-attachments/assets/e3c35f5a-ab79-4a7d-96b2-725bd0fcc576" />
 
 > Original consciousness-flow editorial visual skill · V1.1.1  
 > 原创意识流档案式编辑视觉 Skill · V1.1.1
 
 Somniomancer is a prompt-driven visual direction skill for creating original, non-photorealistic editorial key visuals. It turns a subject into sectional, sampled, cropped, and displaced graphic material, then lets that subject push back against an observing system.
 
-Somniomancer 是一套用于生成原创实验编辑视觉的提示词 Skill。它不把主体当作写实插画，而是将其转译为剖面、取样、裁切、错位后的图形材料；再通过“系统施压”与“超出系统”建立画面的叙事张力。
+Somniomancer 是一套用于生成原创实验编辑视觉的提示词 Skill。它不把主体当作写实插画，而是将其转译为剖面、取样、裁切、错位后的图形材料；再通过“系统施压”与“超出系统”建立画面的叙事张力。美术风格参考《明日方舟》中“众生行记”活动的美术风格
 
 ## What it controls / 可控项
 
