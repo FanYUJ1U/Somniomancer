@@ -1,0 +1,4 @@
+interface:
+  display_name: "Somniomancer"
+  short_description: "Generate consciousness-flow archival visuals"
+  default_prompt: "Create a Somniomancer visual. Subject: [subject]. System pressure: [pressure]. Escape: [escape]. Mood: [mood]. Copy theme: [theme]. Ratio: [ratio]."
